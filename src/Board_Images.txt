@@ -1,0 +1,181 @@
+
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|	*	|		|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      		|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|		|		|
+ --------------- --------------- ---------------
+#
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|	*	|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      		|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|		|		|
+ --------------- --------------- ---------------
+#
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|		|	*	|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      		|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|		|		|
+ --------------- --------------- ---------------
+#
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|		|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|	*	|      		|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|		|		|
+ --------------- --------------- ---------------
+#
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|		|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      	*	|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|		|		|
+ --------------- --------------- ---------------
+#
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|		|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      		|	*	|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|		|		|
+ --------------- --------------- ---------------
+#
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|		|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      		|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|	*	|		|		|
+ --------------- --------------- ---------------
+#
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|		|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      		|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|	*	|		|
+ --------------- --------------- ---------------
+#
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|		|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      		|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|		|	*	|
+ --------------- --------------- ---------------
+#

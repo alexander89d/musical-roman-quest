@@ -1,0 +1,7 @@
+Enter the adrenaline-rush that is the Roman Colosseum! Fight battles against gladiators!
+Win 10 coins if you win the match! Warning - if you lose, you are at the mercy of the presiding senator.
+The senator will choose if you live or die, so be warned of the possible consequences of gladitorial combat.
+
+Rules: Gladitorial battles work like the game of rock-paper-scissors. Each turn, you can choose 1 of 3 moves:
+shield, net, or sword. Shield beats sword, sword beats net, and net beats shield.
+#

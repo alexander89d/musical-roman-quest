@@ -1,0 +1,64 @@
+		A Musical Roman Quest		by Alexander Densmore
+
+*** Instructions ***
+
+Hello time traveler, and welcome to Ancient Rome! You have been sent back in time to investigate Ancient Roman music.
+While we know that Ancient Romans had music, we only have theories as to what it actually sounded like.
+That is where you come in! Your task is to befriend the emperor, Nero, record him singing, and bring sheet music
+back to the present-day United States with you.
+
+Here are a few things you should know before you begin roaming around Rome:
+#
+You have been sent to the time of Nero because, while he is an eccentric emperor who can be a little violent
+and unpredictable, he has a passion for the arts. He loves performing for an audience, and he can use his authority
+to get you a copy of sheet music from the library to take back home with you. Usually, you can only look at music in
+the library, but they will of course make an exception for the emperor. Just be careful what you say to Nero or his 
+supporters, and above all else, do not even think about criticizing his singing, no matter what it sounds like.
+#
+The map of the city is shown below:
+
+ --------------- --------------- ---------------
+|	I	|	II	|      III	|
+|  Bibliotheca	|  Domus Aurea	|     Ludus	|
+|   (Library)	|(Nero's Palace)|    (School)	|
+|		|		|		|
+|		|		|		|
+ --------------- --------------- ---------------
+| 	IV	|	V	|	VI	|
+|Circus Maximus	|     Forum	|    Theatrum	|
+|  (Racetrack)	|    (Market)	|    (Theater)	|
+|		|		|		|
+|		|      		|		|
+ --------------- --------------- ---------------
+|      VII	|     VIII	|	IX	|
+|   Colosseum	|    Thermae	| Campus Martius|
+| (Gladiators'	|    (Baths)	|   (Military 	|
+|    Arena)	|		|Training Field)|
+|		|		|		|
+ --------------- --------------- ---------------
+
+You will start in Square V (the Forum). 
+You can buy goods in the Forum, but you don't have any money yet, so you should go
+explore other squares to see where you can get some money.
+#
+Your current location will be indicated on the map by an asterisk centered in the bottom of the square
+where you are located. It will also be printed at the top of the screen.
+
+On any turn, you can choose to either enter the area where you are located to complete some task,
+or you can simply "pass through" that area and choose the direction of the square where you would
+like to go next (North, Northeast, East, Southeast, etc.). You can only move from one square to a square immediately touching it,
+and you cannot move off the edge of the map. Thefore, you can go to all 8 other squares from Square V (The Forum), 
+but you can only go to 3 other squares from Square I (the Bibliotheca).
+#
+Every time you move from one square to another, 1 step will be added to the number of steps you have moved 
+(regardless of whether you entered the current space where you are located and completed a task or simply passed through it).
+Be careful! You can only take 75 steps total before arriving at Nero's palace for dinner. If you have not been received by Nero
+before taking 75 steps, that means you will be out in Rome at night on your own. We certainly don't want you in that
+dangerous situation, so we will automatically force you back into the present time if you hit 75 steps.
+
+Speaking of being careful... even during the day, things can get dangerous in Rome. Be careful what you say to people or
+what battles you choose to fight. Remember that you are mortal and are about to interact with real Romans who have real swords.
+#
+Enough with these warnings, though - you are here to do valuable and fascinating research!
+Have fun, and, as the Romans would say, bona fortuna (good luck)!
+#
