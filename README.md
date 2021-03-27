@@ -7,9 +7,9 @@ This project implements an Ancient Rome-themed board game with text and ASCII-ba
 This is a single-player game. The main objective of the game is that, as a time traveler who has traveled back in time to Ancient Rome, the user must obtain a sound recording of Roman music as well as a copy of Roman sheet music. The board is a 3x3 grid, and the player begins in the center square (the Forum). At the beginning of each turn, a description of the square's purpose is printed, and the user can either "enter" the square to complete a task or simply choose to move on. At the end of the turn, after completing the task at a square or choosing to simply move on, the player must move to any square adjacent to the current square which they occupy. To "win" the game, the player must gain an audience with the emperor, Nero, who resides at the Domus Aurea (Golden Palace) square, in 75 moves or less. The player must figure out what requirements must be met in order to gain admittance to Nero's palace. Certain squares allow the player to earn money. The player can purchase items at the Forum. Other squares have their own special purposes, such as the Campus Martius (Military Training Ground). See [src/Game_Instructions.txt](src/Game_Instructions.txt) for more details about gameplay.
 
 This project reviewed the following major concepts from the course curriculum:
-- Inheritance and Polymorphism (there is a Space abstract class with specific types of Spaces as children).
-- Composition (the Board class has Spaces, and the Game class that controls the overall execution has a Board).
-- Pointers (each Space has pointers to the spaces to its N, NE, E, SE, S, SW, W, and NW, with null values for any direction representing that there is no space in that direction).
+- Inheritance and Polymorphism: There is a Space abstract class with specific types of Spaces as children.
+- Composition: The Board class has Spaces, and the Game class that controls the overall execution has a Board.
+- Pointers: Each Space has pointers to the spaces to its N, NE, E, SE, S, SW, W, and NW, with null values for any direction representing that there is no space in that direction.
 - Text-based Menus: Each time the user is prompted to make a choice (such as to what space they would like to move or what they would like to do at a given space), a menu of choices is printed, and the user enters the number of their choice.
 
 # Repository Structure
