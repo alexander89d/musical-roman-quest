@@ -1,4 +1,6 @@
-# Project Overview
+# Musical Roman Quest
+
+## Project Overview
 
 I completed this project as part of CS 162 (Intro to Computer Science II) during Fall 2018 while I was a student at Oregon State University. **I have been granted express permission by the course instructor to post my source code for this project publicly for use in my online professional portfolio.**
 
@@ -12,8 +14,8 @@ This project reviewed the following major concepts from the course curriculum:
 - Pointers: Each Space has pointers to the spaces to its N, NE, E, SE, S, SW, W, and NW, with null values for any direction representing that there is no space in that direction.
 - Text-based Menus: Each time the user is prompted to make a choice (such as to what space they would like to move or what they would like to do at a given space), a menu of choices is printed, and the user enters the number of their choice.
 
-# Repository Structure
+## Repository Structure
 
 The source code for the game is located in the src/ folder. **All files in the src/ directory have not been modified since being submitted as part of this course assignment.** To compile this program on a Linux machine, simply navigate into the src/ directory and use the `make` command. Then, run the program using the command `finalProj`. Finally, the command `make clean` can be used to remove the executable file.
 
-The root directory of this repository also contains the detailed documentation required to be submitted with this project (including a general description of the game, a class heiarchy diagram, pseudocode, a manual testing plan and results, and reflections on changes made from pseudocode during implementation). That documentation can be viewed in [CS162_Final_Project_Documentation.pdf](CS162_Final_Project_Documentation.pdf).
+The root directory of this repository also contains the detailed documentation required to be submitted with this project (including a general description of the game, a class heiarchy diagram, pseudocode, a manual testing plan and results, and reflections on changes made from pseudocode during implementation). That documentation can be viewed at [https://alexdensmore.dev/projects/documentation/musical-roman-quest.pdf](https://alexdensmore.dev/projects/documentation/musical-roman-quest.pdf)
